@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "TianriShareCloud",
+  title: "### Space",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Cloud',
@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Copyright 2022 Tianri.</br> <a href="https://icp.gov.moe/?keyword=20229971" target="_blank">萌ICP备20229971号</a>',
+    'Copyright 2023 Tianri and →←↑↓ Studio.</br> <a href="https://icp.gov.moe/?keyword=20229971" target="_blank">萌ICP备20229971号</a>',
     
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
@@ -46,7 +46,7 @@ module.exports = {
   protectedRoutes: ['/pr'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:tianristd@163.com',
+  email: 'mailto:void@voidd.net',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
