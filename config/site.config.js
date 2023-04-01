@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "### Space",
+  title: "VOID SHARE CLOUD",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Cloud',
@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Copyright 2023 Tianri and →←↑↓ Studio. </br> <a href="https://icp.gov.moe/?keyword=20229971" target="_blank">萌ICP备20229971号</a>',
+    'Copyright 2023 Tianri and VOIDStd. </br> <a href="https://icp.gov.moe/?keyword=20229971" target="_blank">萌ICP备20229971号</a>',
     
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
